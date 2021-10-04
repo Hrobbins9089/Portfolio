@@ -1,5 +1,21 @@
 p 
 {
-    color: deepskyblue;
+    color: rgb(0, 191, 255);
     font-size: 16px;
+    
+}
+
+h1
+{
+    text-align: center;
+      
+}
+.sport
+{
+    font-weight: bold;
+    color: black;
+}
+.game
+{
+    text-decoration: underline;
 }
